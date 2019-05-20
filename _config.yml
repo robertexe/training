@@ -1,7 +1,7 @@
 # Site settings
-title: Object Detection Training
+title: Cloud Annotations Model Training
 description: >-
-  Create custom object detection models for TensorFlow.js
+  Create custom models from Cloud Annotations for mobile, IoT and web.
 baseurl: "/training" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bourdakos1
